@@ -12,10 +12,10 @@ I’m a beginner and use this repo to:
 </ul>
 Currently:
 <ul>
-<li>Languages used: C, Python</li>
+<li><b>Languages used:</b> C, Python</li>
 
-<li>Structure: Each problem is kept inside its own folder</li>
+<li><b>Structure:</b> Each problem is kept inside its own folder</li>
 
-<li>Status: Just started (more problems will be added gradually)</li>
+<li><b>Status:</b> Just started (more problems will be added gradually)</li>
 </ul>
 This repository will evolve as I learn more and improve my approach.

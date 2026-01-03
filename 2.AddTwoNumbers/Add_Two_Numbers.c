@@ -1,10 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
-
-struct ListNode {
-     int val;
-     struct ListNode *next;
- };
 void Insert();
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     struct ListNode *temp1 = l1, *temp2 = l2, *Root = NULL;

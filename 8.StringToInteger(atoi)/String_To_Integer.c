@@ -36,7 +36,4 @@ int myAtoi(char* s) {
     {
         return num;
     }
-
-    
-
 }

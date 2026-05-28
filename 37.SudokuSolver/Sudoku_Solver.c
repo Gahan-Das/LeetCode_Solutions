@@ -1,3 +1,4 @@
+#include<stdbool.h>
 bool isSafe(char** board, int row, int col, int num){
     char no = num+'0';
     for(int i = 0; i < 9; i++){

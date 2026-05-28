@@ -1,1 +1,0 @@
-        fillSudoku(board, idx[0], 0)

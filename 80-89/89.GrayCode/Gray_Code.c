@@ -1,9 +1,6 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
-#include<stdio.h>
-#include<math.h>
-#include<stdlib.h>
 int binInt(long int n){
     int num = 0, count = 0;
     while(n > 0){
